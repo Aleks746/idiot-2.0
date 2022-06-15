@@ -1,0 +1,11 @@
+@echo off
+start Error.vbs
+start Error.vbs
+start Error.vbs
+start Error.vbs
+start Error.vbs
+start Error.vbs
+start Error.vbs
+start Error.vbs
+start Error.vbs
+start Error.vbs

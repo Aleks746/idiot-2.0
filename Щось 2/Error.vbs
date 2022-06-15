@@ -1,0 +1,5 @@
+msgbox"Idiot",16,"Idiot"
+msgbox"Idiot",16,"Idiot"
+msgbox"Idiot",16,"Idiot"
+msgbox"Idiot",16,"Idiot"
+msgbox"Idiot",16,"Idiot"
